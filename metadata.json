@@ -1,0 +1,7 @@
+{
+  "name": "Aethel Luxury Interiors",
+  "description": "High-end residential interior estimation, AI interior recommender, and BOQ specification engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
